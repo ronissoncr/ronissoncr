@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 
 
-### 👋 PT_BR
+### 🇧🇷 PT_BR
 Olá, meu nome é Ronisson Cabral e sou um Engenheiro de Computação, com Especialização em Engenharia de Software e Mestrando em Ciências da Computação como aluno especial. Tenho mais de 10 anos de experiência no mercado de desenvolvimento de software, atuando como CTO e Desenvolvedor Senior.
 
 Habilidades
 Minhas principais habilidades são em linguagens de programação como JavaScript, Java, PHP, Node, React, SQL e Go.
 
-Hackathons
+Hackathons ⚡
 Ao longo da minha carreira, participei de mais de 30 hackathons, tendo vencido 5 deles.
 
 Contato
@@ -29,14 +29,14 @@ Caso queira entrar em contato comigo, sinta-se à vontade para me enviar uma men
 
 LinkedIn: https://www.linkedin.com/in/ronissoncabral/
 
-### 👋 EN
+### 🇺🇸 EN
 
 Hello, my name is Ronisson Cabral and I am a Computer Engineer with a specialization in Software Engineering and currently pursuing a Master's degree in Computer Science as a special student. I have over 10 years of experience in the software development industry, working as a CTO and Senior Developer.
 
-Skills
+Skills ⚡
 My main skills are in programming languages such as JavaScript, Java, PHP, Node, React, SQL, and Go.
 
-Hackathons
+Hackathons 
 Throughout my career, I have participated in over 30 hackathons, winning 5 of them.
 
 Contact
