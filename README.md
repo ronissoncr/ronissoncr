@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 👋 Olá, meu nome é Ronisson Cabral e sou um Engenheiro de Computação, com Especialização em Engenharia de Software e Mestrado em Ciências da Computação como aluno especial. Tenho mais de 10 anos de experiência no mercado de desenvolvimento de software, atuando como CTO e Desenvolvedor Senior.
+### 👋 Olá, meu nome é Ronisson Cabral e sou um Engenheiro de Computação, com Especialização em Engenharia de Software e Mestrando em Ciências da Computação como aluno especial. Tenho mais de 10 anos de experiência no mercado de desenvolvimento de software, atuando como CTO e Desenvolvedor Senior.
 
 Habilidades
 Minhas principais habilidades são em linguagens de programação como JavaScript, Java, PHP, Node, React, SQL e Go.
